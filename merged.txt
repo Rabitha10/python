@@ -1,0 +1,12 @@
+Name: Rabitha
+Age: 26
+Address: Kerala
+course:data science
+degree: Btect
+score:78
+Name: Rabitha
+Age: 26
+Address: Kerala
+course:data science
+degree: Btect
+score:78

@@ -1,0 +1,6 @@
+Name: Rabitha
+Age: 26
+Address: India
+course:data science
+degree: Btect
+score:78
